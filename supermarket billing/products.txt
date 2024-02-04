@@ -1,0 +1,3 @@
+1001,Watermelon,1,0.5
+1002,Strawberries,0.5,1
+1003,pineapple,2,1
